@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-0": {
+            "": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "minimum-stability": "stable"
+}
