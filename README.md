@@ -9,4 +9,4 @@ Paleidžiame composer update;
 
 Pagal nutylėjimą veikia failų logeris. Žinutes saugo log/loggedMessages.txt faile. Vietą ir failo pavadinimą galima pakeisti klasėje FileLogger.
 
-Naudojantis komandine eilute, galima pasirinkti Logger tipą. Jis pasirenkamas įvedus papildomą parametrą. pvz: php run.php mysql - bus pasirinktas mysql loggeris.
+Naudojantis komandine eilute, galima pasirinkti Logger tipą ir zinute turini. pvz: php run.php mysql "Mano zinute i duomenu baze" - bus pasirinktas mysql loggeris ir nusiusta zinute su turiniu "Mano zinute i duomenu baze".
